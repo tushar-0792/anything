@@ -1,1 +1,1 @@
-# anything
+Created a simple Bank-accounting management system using c++,  which let's customer to open an accoun, make deposits and withdrawls, check the balances, modify the account and to close an account when they are no longer needed.
